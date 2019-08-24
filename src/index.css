@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'Px437_IBM_VGA8';
+	src: 'url(public/Px437_IBM_VGA8.ttf)';
+}
+
+html,
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #333;
+}
