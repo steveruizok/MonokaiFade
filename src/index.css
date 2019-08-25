@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Px437_IBM_VGA8';
-	src: 'url(public/Px437_IBM_VGA8.ttf)';
+	src: local('Px437_IBM_VGA8'), url(./fonts/Px437_IBM_VGA8.ttf), format(ttf);
 }
 
 html,
