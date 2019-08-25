@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
+import './fonts/Px437_IBM_VGA8.ttf'
 import App from './App'
 import * as serviceWorker from './serviceWorker'
 
