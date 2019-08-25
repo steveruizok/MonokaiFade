@@ -5,7 +5,7 @@ import { MonokaiFade } from './components/MonokaiFade'
 // Settings
 const FONTSIZE = 24
 const COLOR = '#333333'
-const FADE_ROWS = 6
+const FADE_ROWS = 8
 const SKEW = -3
 const SPEED = 10
 const STRANGE_OFFSET = 7 // huh?
